@@ -1,5 +1,13 @@
-# CMD Computer Club
-![Material banner](cmda-sud-material-banner.jpg)
+<p align="center">
+    <a href="" target="_blank"><img width="200" src=""></a><br>
+    CMD Computer Club.
+</p>
+
+<p align="center">
+    <a href="https://github.com/dandevri/cmd-computer-club/blob/master/LICENSE"><img src="https://img.shields.io/npm/" alt="License"></a>
+</p>
+
+------
 
 ## Introduction
  **Computer Club** is a *studieregie* course given at [**@CMDA**][cmda]
