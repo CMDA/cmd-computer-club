@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="" target="_blank"><img width="200" src=""></a><br>
+    <a href="" target="_blank"><img width="200" src="https://dandevri.github.io/cmd-computer-club/docs/cmd_icon_laptop.png"></a><br>
     CMD Computer Club.
 </p>
 
@@ -27,13 +27,13 @@
 Nerd Alert! As students, most of our time is spend behind our shiny new laptop. But have you ever spend the time to figure out the inner workings of your laptop and took the time to customize it? That's what the CMD Computer Club is all about! We'll hack your laptop with tools and utilities to get more out of your system. You'll learn about how to secure your laptop and online accounts, navigate the web without being tracked and never lose your homework by backing-up your device.
 
 ## Topics
-| Day | Effort | Topic                   | 
-| ---- | -----: | ---------------------- | 
-| 1    |  4:00h | Hardware               | 
-| 2    |  4:00h | OS Customization       | 
-| 3    |  4:00h | Browsers               | 
-| 4    |  4:00h | Security               | 
-| 5    |  4:00h | Privacy                | 
+| Day | Effort | Topic                   |
+| ---- | -----: | ---------------------- |
+| 1    |  4:00h | Hardware               |
+| 2    |  4:00h | OS Customization       |
+| 3    |  4:00h | Browsers               |
+| 4    |  4:00h | Security               |
+| 5    |  4:00h | Privacy                |
 
 ## Programme
 
