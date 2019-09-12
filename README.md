@@ -1,18 +1,15 @@
 <p align="center">
-    <a href="" target="_blank"><img width="200" src="https://dandevri.github.io/cmd-computer-club/docs/cmd_icon_laptop.png"></a><br>
-    ```
+    <a href="" target="_blank"><img width="200" src="https://dandevri.github.io/cmd-computer-club/docs/cmd_icon_laptop.png">        </a><br>
+</p>
+
+```
    ________  _______     ______                            __               ________      __
   / ____/  |/  / __ \   / ____/___  ____ ___  ____  __  __/ /____  _____   / ____/ /_  __/ /_
  / /   / /|_/ / / / /  / /   / __ \/ __ `__ \/ __ \/ / / / __/ _ \/ ___/  / /   / / / / / __ \
 / /___/ /  / / /_/ /  / /___/ /_/ / / / / / / /_/ / /_/ / /_/  __/ /     / /___/ / /_/ / /_/ /
 \____/_/  /_/_____/   \____/\____/_/ /_/ /_/ .___/\__,_/\__/\___/_/      \____/_/\__,_/_.___/
                                           /_/
-    ```
-</p>
-
-<p align="center">
-    <a href="https://github.com/dandevri/cmd-computer-club/blob/master/LICENSE"><img src="https://img.shields.io/npm/" alt="License"></a>
-</p>
+```
 
 ------
 
