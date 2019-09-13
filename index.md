@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Readme
+title: Index
 sidebar_link: true
 ---
 <p align="center">

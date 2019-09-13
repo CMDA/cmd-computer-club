@@ -4,4 +4,4 @@ title: Day 1
 sidebar_link: true
 ---
 
-# Hardware
+# OS Customization
