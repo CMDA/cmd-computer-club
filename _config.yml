@@ -1,3 +1,6 @@
+title: CMD Computer Club
+tagline: 'Curriculum and class website'
+description: 'Curriculum and class website'
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-remote-theme
