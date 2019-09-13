@@ -1,1 +1,3 @@
 remote_theme: fongandrew/hydeout
+plugins:
+  - jekyll-remote-theme
