@@ -6,6 +6,8 @@ sidebar_link: true
 
 # Resources
 
+*Add your own resources! Feel free to [edit this list](https://github.com/dandevri/cmd-computer-club/blob/master/resources.md) of Resources on GitHub.*
+
 ## Additional resources
 - [Privacy Tools](https://www.privacytools.io/)
 - [Hackertools MIT](https://hacker-tools.github.io/)
@@ -17,6 +19,21 @@ sidebar_link: true
 - [@thegrugq](https://twitter.com/thegrugq)
 - [@danielverlaan](https://twitter.com/danielverlaan)
 - [@schellevis](https://twitter.com/Schellevis)
+
+## Youtube
+- [SnazzyLabs](https://www.youtube.com/channel/UCO2x-p9gg9TLKneXlibGR7w)
+- [N-O-D-E](https://www.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA)
+- [Tweakers](https://www.youtube.com/user/tweakers)
+
+## Publications
+- [The Verge](https://www.theverge.com/)
+- [Ars Technica](https://arstechnica.com/)
+- [Tweakers](https://tweakers.net/)
+- [9to5mac](https://9to5mac.com/)
+- [hardware.info](https://nl.hardware.info/)
+- [Hexus](https://hexus.net/)
+- [iCulture](https://www.iculture.nl/)
+- [The Register](https://www.theregister.co.uk/)
 
 ## Books
 - [Ghost in the Wires](https://www.goodreads.com/book/show/10256723-ghost-in-the-wires)

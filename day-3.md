@@ -14,7 +14,11 @@ A few golden rules:
 
 ## Settings
 
+It's beneficial to be proficient with your tools: it’ll save you a lot of time and make you feel more comfortable behind your MacBook. It's the same with driving, at some point you can control the car almost *automatically* so you can *focus on the traffic*.
+
 ### Hidden OS settings
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ym2pxzWpTNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > 🚨 **Nerd Alert!**
 >
@@ -31,3 +35,5 @@ A few golden rules:
 ## Utilities
 
 ### Window management
+
+### Mac Menu Bar

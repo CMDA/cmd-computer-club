@@ -20,15 +20,23 @@ You should protect yourself from hackers. The chances of a hacker targeting you 
 > Can you spot fishing? Do the [Phishing Quiz][quiz]!
 
 ## Passwords
-* Password manager
-* 2fa
-* Yubikeys
+A password manager stores all of your passwords in a digital vault and secures them with one single master password. They also automatically generate different passwords for each service.
 
-> **Assignment II**
+> 📝 **Read about password managers on [watchyourhack.com](watchyourhack)**
+
+> **Assignment III**
 >
-> Monitor if a database has been breached with your credentials.
+> Monitor if a database has been breached and if your credentials might be stolen.
 
-## Authentication
+> **Assignment IV**
+>
+> Have a look at your online accounts of service you use often and see if they support two-factor authentication (2fa) and enable it.
+
+## Devices
+
+> **Assignment V**
+>
+> Read about Smartphone and Tablet security on [Watch Your Hack][phone] and apply those steps to your device.
 
 
 ## Encryption
@@ -37,3 +45,4 @@ You should protect yourself from hackers. The chances of a hacker targeting you 
 [watchyourhack]: https://laatjeniethackmaken.nl/#wat-zijn-hackers
 [checkup]: https://myaccount.google.com/security-checkup?hl=en&pli=1
 [quiz]: https://phishingquiz.withgoogle.com/
+[phone]: https://laatjeniethackmaken.nl/#telefoon-en-tablet

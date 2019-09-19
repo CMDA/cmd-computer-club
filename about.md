@@ -11,7 +11,7 @@ Nerd Alert! As students, most of our time is spend behind our shiny new laptop. 
 
 ## Topics
 
-| Day | Effort | Topic                   |
+| Day | Effort | Topics                   |
 | ---- | -----: | ---------------------- |
 | 1    |  4:00h | Privacy                |
 | 2    |  4:00h | Hardware & Software    |
@@ -23,7 +23,11 @@ Danny de Vries (@dandevri) is an Indie Maker creating products for the web, work
 ![Portrait picture of Danny de Vries](https://www.dandevri.es/static/img/photos/portrait.jpg)
 
 ## Grading
-You document everything you did during the week in a [GitBook][gitbook] or [GitHub repository][repo]. Explain on a day to day basis what you did, show screenshots! What went well, what other topics did you investigate?
+You document everything you did during the week in a [GitBook][gitbook] or [GitHub repository][repo]. Explain on a day to day basis what you did, show screenshots! What went well, what other topics did you investigate? If you are **present during each lecture** and the **documentation is up to standard** you'll receive a *studieregiepunt*.
+
+> **Hand-in**
+>
+> Add a link to your documentation by opening an issue on the GitHub issue tracker. [Fill in the issue template][issue] with the correct information.
 
 ## Programme
 
@@ -37,3 +41,4 @@ part of the [Faculty of Digital Media and Creative Industries][faculty] at the
 [university]: https://www.amsterdamuas.com
 [gitbook]: https://docs.gitbook.com/
 [repo]: https://help.github.com/en/articles/create-a-repo
+[issue]: https://github.com/dandevri/cmd-computer-club/issues/new/choose

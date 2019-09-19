@@ -30,16 +30,37 @@ We share a large part of our lives on social media. Be careful about the informa
 
 ## Communication
 
+### Chat
+> **Assignment V:**
+>
+> Find an alternative to WhatsApp!
+
+### Mail
+
+> **Assignment VI:**
+>
+> Find an alternative to Gmail!
+
 ## Browsers
 
 ### Extensions
 Surfing the web can be bloated with ads. Browser extensions will block these sites.
 
-> **Assignment V:**
+> **Assignment VII:**
 >
 > Install a couple of *privacy-focused* extensions such as uBlock origin or Privacy Badger.
 
 ## Virtual Private Network
 
+As soon as you connect to a public WiFi network, a VPN builds a digital tunnel for your data traffic. Others won’t be able to see what you do on the internet
+
+📝 **Read about VPNs on [watchyourhack.com](vpn)**
+
+> **Assignment VIII:**
+>
+> Try drawing on a paper how you think a VPN works!
+
+
 [activity]: https://myactivity.google.com/myactivity
 [timeline]: https://www.google.com/maps/timeline?pb
+[vpn]: https://laatjeniethackmaken.nl/#gebruik-een-vpn

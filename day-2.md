@@ -17,8 +17,9 @@ Examples:
 * Server (computation)
 * Smartphones & Tablets
 
-**Assignment I:**
-*[Here's a picture][desktop] of a Desktop computer, and [here's a picture][macbook] of a MacBook. Look at it and try to annotate all the different parts that make up the computer.*
+> **Assignment I:**
+>
+> [Here's a picture][desktop] of a Desktop computer, and [here's a picture][macbook] of a MacBook. Look at it and try to annotate all the different parts that make up the computer.
 
 ## Software
 Computer programs and related data that provides the instructions for telling a computer what to do and how to do it.
@@ -32,7 +33,9 @@ An operating system (OS) is system software that manages computer hardware, soft
 #### Shell
 Operating system  use either a command-line interface (CLI) or graphical user interface (GUI).
 
-**Assignment II:** Try out some commands! Make a folder, rename something or create a new text file.
+> **Assignment II:**
+>
+> Try out some commands! Make a folder, rename something or create a new text file.
 
 ### Virtual Machines
 Virtual machine (VM) is an emulation of a computer system. You can configure a virtual machine with some operating system.
@@ -40,14 +43,24 @@ Virtual machine (VM) is an emulation of a computer system. You can configure a v
 > 🚨 **Nerd Alert!**
 >
 > **Optional assignment**:
-> *Install virtualbox (open-source) and try another operating system such as [Manjaro][manjaro], [Elementary][elementary] or any other [privacy-focused OS.][os]*
+> *Install virtualbox (open-source) and try another operating system such as [Manjaro][manjaro], [Elementary][elementary] or any other [privacy-focused OS.][os] You can also play around with [Boot Camp][bootcamp] to run Windows on your MacBook.*
 
 ## Backups
 Any data you own that you haven’t backed up is data that could be gone at any moment, forever. When your laptop gets stolen, is everything lost?
 
-* 3-2-1 Rule
-* Cloud services
-* Encryption
+![3-2-1](https://www.nakivo.com/blog/wp-content/uploads/2017/11/3-2-1-backup-rule.png)
+
+> **Assignment III:**
+>
+> Backup your files! Pick a [cloud service provider][stack] and port over your important files onto that service.
+
+> **Assignment IV:**
+>
+> Encrypt your hard-drive with [FileVault][filevault] on MacOS. It enables full-disk encryption.
+
+> **Assignment V:**
+>
+> Set-up [time machine][timemachine] on your MacBook. It's handy if you bring an external hard-drive to class.
 
 **Additional resources**
 * [Right to Repair][repair]
@@ -60,3 +73,7 @@ Any data you own that you haven’t backed up is data that could be gone at any 
 [desktop]: https://en.wikipedia.org/wiki/Computer_hardware#/media/File:Computer_from_inside_018.jpg
 [projects]: https://tweakers.net/plan/2230/deel-je-tofste-raspberry-pi-projecten-met-je-medetweakers-en-de-redactie.html
 [os]: https://www.privacytools.io/operating-systems/
+[bootcamp]: https://support.apple.com/boot-camp
+[timemachine]: https://support.apple.com/en-us/HT201250
+[stack]: https://www.transip.nl/stack/
+[filevault]: https://support.apple.com/en-us/HT204837
