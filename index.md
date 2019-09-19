@@ -32,18 +32,6 @@ sidebar_link: true
 *   **Language**: Dutch instructions and English resources
 *   **Entry requirements**: N/A
 
-## Description
-Nerd Alert! As students, most of our time is spend behind our shiny new laptop. But have you ever spend the time to figure out the inner workings of your laptop and took the time to customize it? That's what the CMD Computer Club is all about! We'll hack your laptop with tools and utilities to get more out of your system. You'll learn about how to secure your laptop and online accounts, navigate the web without being tracked and never lose your homework by backing-up your device.
-
-## Topics
-
-| Day | Effort | Topic                   |
-| ---- | -----: | ---------------------- |
-| 1    |  4:00h | Privacy                |
-| 2    |  4:00h | Hardware & Software    |
-| 3    |  4:00h | OS Customization       |
-| 4    |  4:00h | Security               |
-
 ## Programme
 
 This course is given at [Communication and Multimedia Design][bachelor], a

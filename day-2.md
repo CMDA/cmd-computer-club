@@ -37,8 +37,10 @@ Operating system  use either a command-line interface (CLI) or graphical user in
 ### Virtual Machines
 Virtual machine (VM) is an emulation of a computer system. You can configure a virtual machine with some operating system.
 
-**Optional assignment**:
-*Install virtualbox (open-source) and try another operating system such as [Manjaro][manjaro] or [Elementary][elementary].*
+> 🚨 **Nerd Alert!**
+>
+> **Optional assignment**:
+> *Install virtualbox (open-source) and try another operating system such as [Manjaro][manjaro], [Elementary][elementary] or any other [privacy-focused OS.][os]*
 
 ## Backups
 Any data you own that you haven’t backed up is data that could be gone at any moment, forever. When your laptop gets stolen, is everything lost?
@@ -57,3 +59,4 @@ Any data you own that you haven’t backed up is data that could be gone at any 
 [macbook]: https://d3nevzfk7ii3be.cloudfront.net/igi/EiBtjodFPtFPQFej.huge
 [desktop]: https://en.wikipedia.org/wiki/Computer_hardware#/media/File:Computer_from_inside_018.jpg
 [projects]: https://tweakers.net/plan/2230/deel-je-tofste-raspberry-pi-projecten-met-je-medetweakers-en-de-redactie.html
+[os]: https://www.privacytools.io/operating-systems/
