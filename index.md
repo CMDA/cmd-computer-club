@@ -39,11 +39,10 @@ Nerd Alert! As students, most of our time is spend behind our shiny new laptop. 
 
 | Day | Effort | Topic                   |
 | ---- | -----: | ---------------------- |
-| 1    |  4:00h | Hardware               |
-| 2    |  4:00h | OS Customization       |
-| 3    |  4:00h | Browsers               |
+| 1    |  4:00h | Privacy                |
+| 2    |  4:00h | Hardware & Software    |
+| 3    |  4:00h | OS Customization       |
 | 4    |  4:00h | Security               |
-| 5    |  4:00h | Privacy                |
 
 ## Programme
 

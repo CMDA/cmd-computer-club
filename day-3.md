@@ -4,4 +4,10 @@ title: Day 3
 sidebar_link: true
 ---
 
-# Hardware
+# OS Customization
+
+## Settings
+
+## Utilities
+
+## Keyboard shortcuts
