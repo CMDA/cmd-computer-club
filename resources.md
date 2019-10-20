@@ -13,6 +13,8 @@ sidebar_link: true
 - [Hackertools MIT](https://hacker-tools.github.io/)
 - [Watch Your Hack](https://watchyourhack.com/)
 - [Jigsaw](https://jigsaw.google.com/)
+- [Data Detox Kit](https://datadetoxkit.org/)
+- [Bits Of Freedom](https://www.bitsoffreedom.nl/)
 
 ## Who to Follow
 - [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity)

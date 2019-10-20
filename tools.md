@@ -17,6 +17,9 @@ sidebar_link: true
 - [Firefox Monitor](https://monitor.firefox.com/)
 - [Firefox Send](https://send.firefox.com/)
 - [Wirecutter VPN](https://thewirecutter.com/reviews/best-vpn-service/)
+- [Bits of Freedom Toolbox](https://toolbox.bitsoffreedom.nl/)
+- [My Data Done Right](https://www.mydatadoneright.eu/)
+- [Data Detox Toolkit](https://datadetoxkit.org)
 
 ## Software
 - [1Password](https://1password.com/)
