@@ -6,6 +6,8 @@ sidebar_link: true
 
 # OS Customization
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I guess it’s time to get back to work <a href="https://t.co/pUFaFio6Ur">pic.twitter.com/pUFaFio6Ur</a></p>&mdash; Cassidy Williams (@cassidoo) <a href="https://twitter.com/cassidoo/status/1179110386445905920?ref_src=twsrc%5Etfw">October 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 A few golden rules:
 
 * Automate everything you possible can.

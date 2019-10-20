@@ -6,6 +6,12 @@ sidebar_link: true
 
 # Security
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As an Infosec professional, I can only but approve of this phone unlocking pattern ¯\_(ツ)_/¯ <a href="https://t.co/4jLfhPtdEv">pic.twitter.com/4jLfhPtdEv</a></p>&mdash; Khalil Sehnaoui (@sehnaoui) <a href="https://twitter.com/sehnaoui/status/1172533567617998855?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+It's all about taking small steps first. There are a lot of small things and quick wins that can make you secure on the web.
+
+> [This lesson in one Tweet](https://twitter.com/sehnaoui/status/1172533567617998855?s=20)
+
 ## Hacking
 You should protect yourself from hackers. The chances of a hacker targeting you is very small. Hackers have roughly 6 ways to get into your account or device.
 

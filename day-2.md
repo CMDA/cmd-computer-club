@@ -6,8 +6,13 @@ sidebar_link: true
 
 # Hardware & Software
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A man-in-the-middle attack illustrated. <a href="https://t.co/OJOTn4UcZg">pic.twitter.com/OJOTn4UcZg</a></p>&mdash; The Best Linux Blog In the Unixverse (@nixcraft) <a href="https://twitter.com/nixcraft/status/1171860584628772865?ref_src=twsrc%5Etfw">September 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ## Hardware
 Computer hardware includes the physical, tangible parts or components of a computer.
+
+> [This lesson in one Tweet](https://twitter.com/nixcraft/status/1171860584628772865)
+
 
 Examples:
 * Personal Computer (desktop and laptop)

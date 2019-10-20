@@ -4,7 +4,13 @@ title: Day 1
 sidebar_link: true
 ---
 
+
+
 # Privacy
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Across the street from Google&#39;s Chelsea, NYC offices <a href="https://t.co/cSQwx29mW5">pic.twitter.com/cSQwx29mW5</a></p>&mdash; Rand Fishkin (@randfish) <a href="https://twitter.com/randfish/status/1126892446925848578?ref_src=twsrc%5Etfw">May 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Privacy and personal data have become a selling point for companies instead of *privacy by default*. Think about the *digital breadcrumbs* you leave behind when you browse the web.
 
 ## Online Identity
 

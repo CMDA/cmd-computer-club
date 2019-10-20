@@ -29,6 +29,10 @@ You document everything you did during the week in a [GitBook][gitbook] or [GitH
 >
 > Add a link to your documentation by opening an issue on the GitHub issue tracker. [Fill in the issue template][issue] with the correct information.
 
+## Kick-off slides
+
+<iframe src="//slides.com/dandevri/kick-off-1/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Programme
 
 This course is given at [Communication and Multimedia Design][bachelor], a
