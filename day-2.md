@@ -30,11 +30,11 @@ Examples:
 
 > **Assignment 1.2**
 >
-> Localize your devices, have a look at [find my iPhone][findmy]. Any old devices that show up?
+> Localize your devices, have a look at [find my iPhone][findmy]. Any old devices that show up? Also, jot down your serial number! 
 
 > **Assignment 1.3**
 >
-> Jot down your serial number! In case your device gets stolen.
+> [Change your device names][device]. Make it something less personally identifying.
 
 ## 2. Software
 Computer programs and related data that provides the instructions for telling a computer what to do and how to do it.
@@ -43,6 +43,10 @@ Computer programs and related data that provides the instructions for telling a 
 Software that uses the computer system to perform special functions or provide entertainment functions. (3d animation, adobe etc.)
 
 > **Assignment 2.0**
+>
+> [Declutter unwanted apps][declutter]. Get rid of those random apps on your phone that you never use.
+
+> **Assignment 2.1**
 >
 > Update your applications! Make sure you are running the latest versions and auto-update your programs.
 
@@ -121,3 +125,5 @@ Any data you own that you haven’t backed up is data that could be gone at any 
 [findmy]: https://www.apple.com/icloud/find-my/
 [libre]: https://en.wikipedia.org/wiki/Gratis_versus_libre
 [oss]: https://toolbox.bitsoffreedom.nl/playlist/essentieel/6/
+[declutter]: https://datadetoxkit.org/en/privacy/appcleanse
+[device]: https://datadetoxkit.org/en/privacy/essentials#step-1
