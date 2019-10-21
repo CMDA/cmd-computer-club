@@ -59,7 +59,7 @@ While surfing the web you are bombarded with ads. Those are annoying but website
 
 As soon as you connect to a public WiFi network, a VPN builds a digital tunnel for your data traffic. Others won’t be able to see what you do on the internet
 
-**Read about VPNs on [watchyourhack.com](vpn)**
+**Read about VPNs on [watchyourhack][vpn]**
 
 > **Assignment 5.0**
 >

@@ -15,6 +15,7 @@ sidebar_link: true
 - [Jigsaw](https://jigsaw.google.com/)
 - [Data Detox Kit](https://datadetoxkit.org/)
 - [Bits Of Freedom](https://www.bitsoffreedom.nl/)
+- [The Verge Guide to Privacy](https://www.theverge.com/2019/9/6/20802082/online-privacy-security-protection-guide-how-to-data-identity-theft-harassment-apple-google-facebook)
 
 ## Who to Follow
 - [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity)
