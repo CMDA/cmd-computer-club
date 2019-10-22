@@ -71,7 +71,7 @@ As soon as you connect to a public WiFi network, a VPN builds a digital tunnel f
 
 ---
 
-## 📝 IMO (1:30m)
+## 📝 IMO (1:30h)
 
 > **🎬 Watch ['the great hack'][tgh] on Netflix.**  
 > The Great Hack uncovers the dark world of data exploitation. It shows the Cambridge Analytica/Facebook data scandal in great detail. Tomorrow, we are going to discuss the topics mentioned in the documentary.

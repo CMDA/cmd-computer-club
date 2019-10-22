@@ -53,13 +53,17 @@ Software that uses the computer system to perform special functions or provide e
 ### Operating System
 An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.
 
-> **Assignment 2.1**
+> **Assignment 2.2**
 >
 > Update to the latest version of your operating system. (you probably want to do this @ home)
 
-> **Assignment 2.2**
+> **Assignment 2.3**
 >
 > You can also play around with [Boot Camp][bootcamp] to run Windows on your MacBook. How does that work?
+
+> **Assignment 2.4**
+>
+> Sometimes your OS or programs misbehave. Programs won't load and you get the famous macOS beach ball. Often you want to know why that happened. This is called Machine Introspection. What are some of the tools you could use?
 
 > 🚨 **Nerd Alert!**
 >
@@ -69,18 +73,18 @@ An operating system (OS) is system software that manages computer hardware, soft
 ### Open Source
 Open source software is software where the source code of that program is public.
 
-> **Assignment 3.0**
+> **Assignment 2.5**
 >
 > Find and [open-source alternative][oss] for a piece of software you are using. Photoshop alternative? Twitter alternative?
 
-> **Assignment 3.1**
+> **Assignment 2.6**
 >
 > Does open-source mean that software is free? What does [Gratis versus libre][libre]
 
 #### Shell
 Operating system  use either a command-line interface (CLI) or graphical user interface (GUI).
 
-> **Assignment 3.2**
+> **Assignment 2.7**
 >
 > Try out some commands! Make a folder, rename something or create a new text file.
 
@@ -91,22 +95,22 @@ Any data you own that you haven’t backed up is data that could be gone at any 
 
 ![3-2-1](https://www.nakivo.com/blog/wp-content/uploads/2017/11/3-2-1-backup-rule.png)
 
-> **Assignment 4.1**
+> **Assignment 3.0**
 >
 > Backup your files! Pick a [cloud service provider][stack] and port over your important files onto that service.
 
-> **Assignment 4.2**
+> **Assignment 3.1**
 >
 > Encrypt your hard-drive with [FileVault][filevault] on MacOS. It enables full-disk encryption.
 
-> **Assignment 4.3**
+> **Assignment 3.2**
 >
 > Set-up [time machine][timemachine] on your MacBook. It's handy if you bring an external hard-drive to class.
 
-## 📝 IMO (1:30m)
+## 📝 IMO (1:00h)
 
 > **💻 Right to Repair**  
-> Watch [this video of Louis Rossman about Apple Batteries][video] and read about [the right to repair][rtr]. 
+> Watch [this video of Louis Rossman about Apple Batteries][video] and read about [the right to repair][rtr]. Know that you know a bit more about hardware, what's your opinion on this 'movement'?
 
 [Manjaro]: https://manjaro.org/
 [Elementary]: https://elementary.io/
