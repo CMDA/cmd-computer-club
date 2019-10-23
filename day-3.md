@@ -28,7 +28,15 @@ It's beneficial to be proficient with your tools: it’ll save you a lot of time
 
 > **Assignment 1.2**
 >
-> Have a look at [automator][automator]. Any repetitive tasks you can automate?
+> You can also customize your dock (taskbar). Change icons, change the size, [auto-hide][hide] it, put [whitespace between items][items]. 
+
+> **Assignment 1.3**
+>
+> Have a look at [automator][automator]. Any repetitive tasks you can automate? You might also want to take a look at [Siri shortcuts][siri].
+
+> **Assignment 1.4**
+>
+> You can also try out [IFTTT][ifttt] to automate between multiple devices (phone and macbook). 
 
 
 ## 2. Hidden OS settings
@@ -75,7 +83,7 @@ You can extend the capabilities of your OS by installing applications, menu bar 
 
 > **💻 Automate everything**  
 > Listen to [this Syntax.fm][syntax] podcast episode about automating stuff. Did you get any more ideas? You can also watch the [hackertools MIT][mit] video's about OS customization. Any advanced things you would like to try?
-
+d
 [syntax]: https://syntax.fm/show/181/hasty-treat-automating-stuff
 [mit]: https://hacker-tools.github.io/os-customization/
 [snazzy]: https://www.youtube.com/user/ThatSnazzyiPhoneGuy/videos
@@ -83,3 +91,7 @@ You can extend the capabilities of your OS by installing applications, menu bar 
 [menu]: https://macmenubar.com/
 [power]: https://github.com/microsoft/PowerToys
 [automator]: https://support.apple.com/guide/automator/welcome/mac
+[items]: https://www.macrumors.com/how-to/group-app-icons-macos-dock/
+[hide]: http://osxdaily.com/2010/12/10/hide-and-show-the-dock/
+[siri]: https://shortcutsgallery.com/siri-shortcuts/
+[ifttt]: https://ifttt.com/
