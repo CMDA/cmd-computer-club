@@ -23,6 +23,22 @@ You should protect yourself from hackers. The chances of a hacker targeting you 
 >
 > Can you spot fishing? Do the [Phishing Quiz][quiz]!
 
+> **Assignment 1.2**
+>
+> Have a look at some of your photos on your computer or smartphone. Do any of them contain [`exif` data][exif]?
+
+> **Assignment 1.3**
+>
+>[Disable e-mail tracking][track] and remote content loading in mails.
+
+> **Assignment 1.4**
+>
+> [Generate virtual online IDs][generate] such as temporary mail adresses or credit card numbers.
+
+> **Assignment 1.6**
+>
+> Read about [PGP][pgp] on the Bits of Freedom Toolbox website. Can you explain this in your own words?
+
 ## 2. Passwords
 A password manager stores all of your passwords in a digital vault and secures them with one single master password. They also automatically generate different passwords for each service.
 
@@ -34,17 +50,29 @@ A password manager stores all of your passwords in a digital vault and secures t
 
 > **Assignment 2.1**
 >
-> Download a [password manager][password] and try it out! You can also store keys, serial numbers etc. in a password manager. Not only passwords!
+> Read about [data breaches][breach] on the Data Detox Kit website.
 
 > **Assignment 2.2**
 >
+> Download a [password manager][password] and try it out! You can also store keys, serial numbers etc. in a password manager. Not only passwords!
+
+> **Assignment 2.3**
+>
 > Have a look at your online accounts of service you use often and see if they support [two-factor authentication][2fa] (2fa) and enable it.
+
+> **Assignment 2.4**
+>
+> What does a [security key][ubi] do? [Read more about security keys here][key]. 
 
 ## 3. Devices
 
-> **Assignment V**
+> **Assignment 3.0**
 >
-> Read about Smartphone and Tablet security on [Watch Your Hack][phone] and apply those steps to your device.
+> Set your devices to [auto-lock][lock] and enable a [lock screen message][message].
+
+> **Assignment 3.1**
+>
+> Read about Smartphone and Tablet security on [Watch Your Hack][phone] and apply those steps to your device. (from 'encryption' to 'backup'.)
 
 [watchyourhack]: https://laatjeniethackmaken.nl/#wat-zijn-hackers
 [checkup]: https://myaccount.google.com/security-checkup?hl=en&pli=1
@@ -53,3 +81,12 @@ A password manager stores all of your passwords in a digital vault and secures t
 [password]: https://laatjeniethackmaken.nl/#password-managers
 [monitor]: https://monitor.firefox.com/
 [2fa]: https://laatjeniethackmaken.nl/#tweestapsverificatie
+[key]: https://paulstamatiou.com/getting-started-with-security-keys/
+[ubi]: https://www.yubico.com/
+[lock]: https://macpaw.com/how-to/lock-mac-screen
+[message]: https://www.macrumors.com/how-to/set-a-custom-mac-lock-screen-message/
+[track]: https://www.theverge.com/2019/7/3/20680903/email-pixel-trackers-how-to-stop-images-automatic-download
+[generate]: https://www.theverge.com/2019/6/19/18691401/virtual-id-random-security-protection-email-phone-credit-cards-how-to-generate
+[breach]: https://datadetoxkit.org/en/security/breach
+[pgp]: https://toolbox.bitsoffreedom.nl/adviezen/sleutelbeheer/
+[exif]: https://laatjeniethackmaken.nl/#let-op-locatiegegevens-in-fotos
