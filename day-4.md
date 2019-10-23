@@ -13,7 +13,7 @@ It's all about taking small steps first. There are a lot of small things and qui
 ## 1. Hacking
 You should protect yourself from hackers. The chances of a hacker targeting you is very small. Hackers have roughly 6 ways to get into your account or device.
 
-> 📝 **Read about hackers on [watchyourhack](watchyourhack)**
+> 📝 **Read about hackers on [watchyourhack][watchyourhack]**
 
 > **Assignment 1.0**
 >
@@ -30,11 +30,15 @@ A password manager stores all of your passwords in a digital vault and secures t
 
 > **Assignment 2.0**
 >
-> Monitor if a database has been breached and if your credentials might be stolen.
+> [Monitor][monitor] if a database has been breached and if your credentials might be stolen.
 
 > **Assignment 2.1**
 >
-> Have a look at your online accounts of service you use often and see if they support two-factor authentication (2fa) and enable it.
+> Download a [password manager][password] and try it out! You can also store keys, serial numbers etc. in a password manager. Not only passwords!
+
+> **Assignment 2.2**
+>
+> Have a look at your online accounts of service you use often and see if they support [two-factor authentication][2fa] (2fa) and enable it.
 
 ## 3. Devices
 
@@ -42,11 +46,10 @@ A password manager stores all of your passwords in a digital vault and secures t
 >
 > Read about Smartphone and Tablet security on [Watch Your Hack][phone] and apply those steps to your device.
 
-
-## Encryption
-* File encryption
-
 [watchyourhack]: https://laatjeniethackmaken.nl/#wat-zijn-hackers
 [checkup]: https://myaccount.google.com/security-checkup?hl=en&pli=1
 [quiz]: https://phishingquiz.withgoogle.com/
 [phone]: https://laatjeniethackmaken.nl/#telefoon-en-tablet
+[password]: https://laatjeniethackmaken.nl/#password-managers
+[monitor]: https://monitor.firefox.com/
+[2fa]: https://laatjeniethackmaken.nl/#tweestapsverificatie

@@ -83,7 +83,7 @@ You can extend the capabilities of your OS by installing applications, menu bar 
 
 > **💻 Automate everything**  
 > Listen to [this Syntax.fm][syntax] podcast episode about automating stuff. Did you get any more ideas? You can also watch the [hackertools MIT][mit] video's about OS customization. Any advanced things you would like to try?
-d
+
 [syntax]: https://syntax.fm/show/181/hasty-treat-automating-stuff
 [mit]: https://hacker-tools.github.io/os-customization/
 [snazzy]: https://www.youtube.com/user/ThatSnazzyiPhoneGuy/videos
