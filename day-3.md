@@ -26,17 +26,18 @@ It's beneficial to be proficient with your tools: it’ll save you a lot of time
 >
 > You spend quite some time in finder. You can customize how items get viewed. Play around with the settings.
 
+> **Assignment 1.2**
+>
+> Have a look at [automator][automator]. Any repetitive tasks you can automate?
+
+
 ## 2. Hidden OS settings
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ym2pxzWpTNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > **Assignment 2.0**
 >
-> There are a lot of 'hidden' and 'secret' settings that can only be enabled trough the command line. [Snazzylabs ][snazzy] has some video's about them.
-
-> **Assignment 2.1**
->
-> There are a lot of 'hidden' and 'secret' settings that can only be enabled trough the command line.
+> There are a lot of 'hidden' and 'secret' settings that can only be enabled trough the command line. [Snazzylabs ][snazzy] has some video's about them. Have a look at some of his video's and see if you can enable any additional settings.
 
 > 🚨 **Nerd Alert!**
 >
@@ -52,11 +53,11 @@ It's beneficial to be proficient with your tools: it’ll save you a lot of time
 
 > **Assignment 2.2**
 >
-> Have a look at your keyboard and trackpad settings. Any gestures you did not know of?
+> Have a look at your keyboard and trackpad settings. What can you customize? Can you remap keys on your keyboard?
 
 > **Assignment 2.3**
 >
-> Have a look at some common macOS shortcuts, write down some your frequently use.
+> Have a look at some common OS shortcuts, write down some your frequently use. Any new ones you did now of?
 
 ## 3. Utilities
 
@@ -81,3 +82,4 @@ You can extend the capabilities of your OS by installing applications, menu bar 
 [window]: https://en.wikipedia.org/wiki/Window_manager
 [menu]: https://macmenubar.com/
 [power]: https://github.com/microsoft/PowerToys
+[automator]: https://support.apple.com/guide/automator/welcome/mac
