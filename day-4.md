@@ -25,13 +25,17 @@ You should protect yourself from hackers. The chances of a hacker targeting you 
 
 > **Assignment 1.2**
 >
-> Have a look at some of your photos on your computer or smartphone. Do any of them contain [`exif` data][exif]?
+>[Disable e-mail tracking][track] and remote content loading in mails.
 
 > **Assignment 1.3**
 >
->[Disable e-mail tracking][track] and remote content loading in mails.
+> Have a look at some of your photos on your computer or smartphone. Do any of them contain [`exif` data][exif]?
 
 > **Assignment 1.4**
+>
+> [Generate virtual online IDs][generate] such as temporary mail adresses or credit card numbers.
+
+> **Assignment 1.5**
 >
 > [Generate virtual online IDs][generate] such as temporary mail adresses or credit card numbers.
 
@@ -72,6 +76,10 @@ A password manager stores all of your passwords in a digital vault and secures t
 
 > **Assignment 3.1**
 >
+> Download a couple of [Security Tools][sec] and try them out!
+
+> **Assignment 3.2**
+>
 > Read about Smartphone and Tablet security on [Watch Your Hack][phone] and apply those steps to your device. (from 'encryption' to 'backup'.)
 
 [watchyourhack]: https://laatjeniethackmaken.nl/#wat-zijn-hackers
@@ -90,3 +98,4 @@ A password manager stores all of your passwords in a digital vault and secures t
 [breach]: https://datadetoxkit.org/en/security/breach
 [pgp]: https://toolbox.bitsoffreedom.nl/adviezen/sleutelbeheer/
 [exif]: https://laatjeniethackmaken.nl/#let-op-locatiegegevens-in-fotos
+[sec]: https://objective-see.com/products.html
