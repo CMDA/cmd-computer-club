@@ -37,10 +37,6 @@ You should protect yourself from hackers. The chances of a hacker targeting you 
 
 > **Assignment 1.5**
 >
-> [Generate virtual online IDs][generate] such as temporary mail adresses or credit card numbers.
-
-> **Assignment 1.6**
->
 > Read about [PGP][pgp] on the Bits of Freedom Toolbox website. Can you explain this in your own words?
 
 ## 2. Passwords
