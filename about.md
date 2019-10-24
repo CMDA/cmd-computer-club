@@ -22,6 +22,10 @@ Nerd Alert! As students, most of our time is spend behind our shiny new laptop. 
 Danny de Vries (@dandevri) is an Indie Maker creating products for the web, working with small companies trough his design studio and lecturer at CMD Amsterdam. He's passionate about design systems, brand identities, privacy, time well spent, interfaces and web development. His approach is organized, systematic and inclusive.
 ![Portrait picture of Danny de Vries](https://www.dandevri.es/static/img/photos/portrait.jpg)
 
+## Classroom Code
+* url: classroom.google.com
+* class code: i78gpit
+
 ## Grading
 You document everything you did during the week in a [GitBook][gitbook] or [GitHub repository][repo]. Explain on a day to day basis what you did, show screenshots! What went well, what other topics did you investigate? If you are **present during each lecture** and the **documentation is up to standard** you'll receive a *studieregiepunt*.
 
